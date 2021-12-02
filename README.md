@@ -3,7 +3,7 @@
 Generate a TensorFlow 2 SavedModel for person semantic segmentation
 using DeepLabv3.
 
-Based on code from https://github.com/tensorflow/models/research/deeplab, but packaged as a TF2
+Based on code from https://github.com/tensorflow/models/tree/master/research/deeplab, but packaged as a TF2
 SavedModel, not a TF1-style frozen graph.
 
 ## Usage
